@@ -1,0 +1,51 @@
+Date,Region,Product Category,Sales Amount,Profit,Units Sold,Customer Age,Payment Method,Discount Percentage
+23-11-2024,North,Beauty,2468.6,293.43,31,52,Credit Card,21.5
+27-02-2024,West,Books,603.75,139.95,33,31,Cash,14.96
+13-01-2024,North,Home Decor,1846.75,315.53,34,50,Debit Card,11.97
+20-05-2024,East,Clothing,4927.34,897.86,11,34,Cash,6.74
+05-05-2024,East,Clothing,4043.54,1102.95,4,26,Debit Card,24.33
+24-04-2024,South,Beauty,1235.29,136.91,33,40,Online Payment,13.78
+12-03-2024,North,Books,1242.31,286.59,6,22,Online Payment,17.74
+22-02-2024,North,Electronics,2858.42,655.25,12,33,Credit Card,21.99
+12-12-2024,South,Electronics,439.85,49.32,5,41,Credit Card,26.09
+06-10-2024,East,Electronics,3672.94,902.23,39,36,Credit Card,13.28
+14-02-2024,North,Clothing,4089.32,1063.71,5,28,Debit Card,5.69
+29-10-2024,South,Clothing,4891.02,595.99,44,46,Credit Card,26.93
+04-08-2024,North,Books,2686.9,371.65,16,52,Cash,11.53
+17-01-2024,West,Beauty,672.51,139.38,26,63,Debit Card,19.51
+16-01-2024,East,Electronics,3315.77,424.54,8,37,Online Payment,29.59
+17-02-2024,West,Books,4736.9,647.52,37,57,Debit Card,5.96
+21-04-2024,East,Books,867.38,166.99,16,59,Credit Card,19.91
+29-04-2024,South,Beauty,2661.99,731.77,38,51,Cash,13.64
+15-09-2024,East,Books,3052.64,351.29,39,18,Cash,24.66
+04-11-2024,East,Beauty,4823.6,1261.88,3,60,Credit Card,15.91
+14-01-2024,South,Home Decor,4648.12,1260.54,40,53,Cash,29.61
+14-10-2024,East,Beauty,3788.56,453.04,6,37,Debit Card,7.89
+11-04-2024,North,Electronics,3464.84,798.4,27,60,Debit Card,27.49
+28-11-2024,South,Electronics,3579.1,744.87,43,24,Credit Card,9.75
+25-12-2024,South,Beauty,2025.01,208.48,38,26,Cash,6.11
+06-10-2024,South,Home Decor,3374.85,400.43,37,34,Online Payment,15.9
+02-08-2024,West,Home Decor,1898.43,475.96,34,25,Debit Card,18
+22-04-2024,West,Electronics,4503.09,663.2,21,24,Debit Card,25.16
+17-08-2024,East,Home Decor,2284.86,414.21,17,65,Debit Card,22.17
+28-10-2024,South,Books,1277.13,250.66,14,53,Debit Card,28.51
+22-05-2024,East,Clothing,366.93,100.15,43,27,Online Payment,23.43
+04-01-2024,North,Books,154.12,43.23,46,35,Credit Card,9.93
+22-03-2024,South,Electronics,2791.91,371.12,21,36,Debit Card,15.78
+23-12-2024,North,Home Decor,2962.78,297.56,16,56,Cash,28.72
+04-08-2024,East,Beauty,85.59,15.24,17,31,Online Payment,28.02
+23-06-2024,West,Clothing,3553.81,1013.91,26,63,Debit Card,20.58
+22-05-2024,East,Beauty,341.43,87.76,9,39,Cash,21.58
+20-03-2024,North,Electronics,383.63,60.25,43,31,Debit Card,8.12
+20-04-2024,South,Home Decor,205.49,49.18,42,61,Credit Card,27.5
+21-06-2024,East,Beauty,1685.62,414.83,20,58,Online Payment,17.68
+22-02-2024,South,Beauty,2595.07,666.08,30,34,Credit Card,21.67
+17-02-2024,West,Clothing,1428.46,331.94,21,50,Online Payment,13.15
+13-07-2024,West,Clothing,2452.8,484.02,49,49,Debit Card,22.43
+19-02-2024,West,Home Decor,2719.21,375.2,5,34,Debit Card,18.86
+02-07-2024,South,Clothing,3630.6,521.14,1,21,Online Payment,9.8
+25-06-2024,East,Beauty,4417.8,493.45,30,23,Cash,21.62
+05-11-2024,South,Beauty,2902.25,717.28,40,58,Cash,14.48
+15-05-2024,South,Electronics,1252.84,140.56,37,45,Debit Card,23.7
+23-01-2024,East,Beauty,2391.22,389.1,7,35,Debit Card,9.35
+23-08-2024,West,Home Decor,2064.95,227.2,5,20,Credit Card,19.23
