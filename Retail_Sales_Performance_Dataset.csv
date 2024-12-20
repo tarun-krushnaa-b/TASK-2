@@ -1,0 +1,251 @@
+Date,Region,Product Category,Sales Amount,Units Sold,Profit,Customer Segment,Discount,Shipping Cost,Order Priority,Order ID,Payment Method,Inventory Status,Store Type
+2023-04-13,East,Food,3514.93,4,449.86,Corporate,0.22,77.83,Critical,ORD-00001,Cash,In Stock,Online
+2024-03-11,West,Toys,1982.59,25,603.86,Corporate,0.36,19.22,Low,ORD-00002,Cash,Out of Stock,Offline
+2023-09-28,West,Food,3711.79,45,772.19,Retail,0.3,45.27,Low,ORD-00003,Credit Card,Low Stock,Offline
+2023-04-17,East,Toys,4584.75,42,-315.83,Retail,0.33,19.53,Medium,ORD-00004,Online Payment,Out of Stock,Offline
+2023-03-13,West,Clothing,4797.64,25,814.67,Corporate,0.24,27.35,High,ORD-00005,EMI,Out of Stock,Online
+2024-12-01,North,Toys,383.53,18,464.39,Retail,0.31,87.58,Medium,ORD-00006,EMI,Low Stock,Online
+2023-01-21,North,Food,2033.16,40,555.92,Retail,0.16,49.92,High,ORD-00007,Online Payment,In Stock,Online
+2024-09-06,West,Furniture,623.1,8,865.94,Retail,0.24,55.86,Low,ORD-00008,EMI,Low Stock,Online
+2023-05-02,West,Toys,1744.73,39,437.14,Wholesale,0.37,21.95,Critical,ORD-00009,Credit Card,Out of Stock,Offline
+2024-04-11,East,Furniture,931.43,40,3.8,Corporate,0.44,34.67,Medium,ORD-00010,EMI,Out of Stock,Offline
+2023-08-03,South,Clothing,3269.56,14,737.66,Corporate,0.22,26.87,Critical,ORD-00011,Cash,Low Stock,Online
+2023-11-27,West,Electronics,2002.52,32,44.59,Wholesale,0.02,24.59,Medium,ORD-00012,Online Payment,In Stock,Online
+2024-04-03,North,Clothing,1224.03,38,-448.66,Corporate,0.08,65.61,Low,ORD-00013,Credit Card,In Stock,Offline
+2023-03-29,East,Toys,1403.1,33,745.98,Retail,0.01,29.4,Low,ORD-00014,Online Payment,Out of Stock,Online
+2024-01-08,West,Furniture,1865.69,23,17.79,Corporate,0.33,65.04,Low,ORD-00015,Credit Card,Out of Stock,Online
+2023-04-10,North,Furniture,1373.75,15,660.75,Retail,0.17,10.55,Medium,ORD-00016,Cash,In Stock,Online
+2024-10-25,North,Food,2320.88,33,44.14,Wholesale,0.27,18.47,High,ORD-00017,Online Payment,Low Stock,Online
+2023-05-11,South,Furniture,258.35,25,791.6,Retail,0.25,31.08,Medium,ORD-00018,EMI,Out of Stock,Online
+2024-10-23,East,Food,1470.84,17,-170.73,Corporate,0.04,61.72,High,ORD-00019,Credit Card,In Stock,Online
+2023-11-05,East,Electronics,2114.91,33,961.82,Corporate,0.2,69.2,Medium,ORD-00020,Online Payment,Out of Stock,Offline
+2023-12-10,South,Toys,3053.63,47,669.64,Corporate,0.11,47.06,Medium,ORD-00021,EMI,Low Stock,Online
+2024-05-06,South,Food,1427.69,2,-328.64,Wholesale,0.21,47.35,Low,ORD-00022,Online Payment,In Stock,Online
+2024-02-18,East,Electronics,752.61,14,348.66,Wholesale,0.1,73.83,Critical,ORD-00023,Online Payment,Out of Stock,Offline
+2024-01-21,East,Furniture,473.38,40,978.05,Corporate,0.42,6.5,Critical,ORD-00024,Online Payment,Low Stock,Offline
+2023-07-11,West,Furniture,4708.61,40,206.6,Retail,0.09,37.4,High,ORD-00025,Credit Card,Out of Stock,Offline
+2023-10-04,West,Electronics,2141.53,39,-226.84,Wholesale,0.48,82.78,Critical,ORD-00026,EMI,Low Stock,Online
+2023-06-10,South,Furniture,2947.7,6,227.17,Corporate,0.21,62.31,Medium,ORD-00027,Cash,Low Stock,Offline
+2024-04-04,West,Electronics,4603.97,6,268.69,Corporate,0.42,37.04,Medium,ORD-00028,Credit Card,In Stock,Online
+2023-11-10,North,Food,505.47,3,612.53,Wholesale,0.31,91.02,Low,ORD-00029,Credit Card,Low Stock,Online
+2023-01-22,West,Food,4395.64,7,548.27,Wholesale,0.37,78.4,Low,ORD-00030,Credit Card,Out of Stock,Online
+2023-09-10,West,Electronics,2802.78,8,103.83,Wholesale,0.38,30.17,Critical,ORD-00031,Cash,Low Stock,Offline
+2024-07-14,North,Food,907.69,42,-172.97,Retail,0.25,66.3,High,ORD-00032,EMI,Low Stock,Offline
+2024-04-19,South,Food,2115.15,15,467.58,Retail,0.27,61.6,Critical,ORD-00033,EMI,In Stock,Offline
+2023-02-28,North,Food,3910.25,47,132.56,Corporate,0.26,43.11,Critical,ORD-00034,EMI,Low Stock,Offline
+2024-05-25,West,Clothing,2453.81,29,-301.59,Wholesale,0.29,39.86,Critical,ORD-00035,Online Payment,Low Stock,Offline
+2024-11-12,South,Toys,4927.9,33,850.86,Retail,0.01,37.64,Critical,ORD-00036,Online Payment,Out of Stock,Online
+2024-04-20,West,Furniture,1946.02,30,536.83,Wholesale,0.2,63.63,Medium,ORD-00037,Online Payment,In Stock,Online
+2024-11-30,North,Clothing,3772.93,39,524.78,Corporate,0.3,47.03,High,ORD-00038,Cash,In Stock,Online
+2023-07-09,North,Food,2025.65,27,733.88,Retail,0.3,84.03,Medium,ORD-00039,Online Payment,In Stock,Online
+2024-11-17,West,Electronics,4162.9,36,294.49,Retail,0.4,68.61,High,ORD-00040,Cash,Low Stock,Offline
+2024-07-16,East,Food,2888.5,29,722.58,Retail,0.33,11.64,Low,ORD-00041,EMI,In Stock,Offline
+2024-07-20,East,Toys,411.21,38,247.14,Corporate,0.5,65.82,Critical,ORD-00042,Online Payment,Low Stock,Online
+2023-09-01,North,Food,280.43,33,-399.24,Wholesale,0.14,30.76,Medium,ORD-00043,Online Payment,Low Stock,Offline
+2024-05-19,North,Electronics,755.88,37,107.87,Retail,0.18,61.32,High,ORD-00044,Credit Card,Out of Stock,Offline
+2023-05-11,East,Toys,166.99,27,246.2,Corporate,0.19,69.61,Low,ORD-00045,Cash,Out of Stock,Online
+2024-04-29,East,Food,469.26,33,580.3,Wholesale,0.23,26.93,Low,ORD-00046,EMI,Out of Stock,Online
+2024-10-08,West,Toys,3489.4,4,-340.13,Corporate,0.42,48.4,Critical,ORD-00047,Credit Card,Out of Stock,Offline
+2023-01-21,West,Furniture,2718.3,22,-289.97,Wholesale,0.12,23.08,High,ORD-00048,Credit Card,Out of Stock,Offline
+2023-06-16,East,Furniture,3774.56,2,-104.47,Corporate,0.39,9.97,Medium,ORD-00049,EMI,Low Stock,Online
+2023-10-01,West,Food,4574.51,10,-100.25,Wholesale,0.2,40.96,Critical,ORD-00050,Credit Card,Low Stock,Online
+2024-01-23,West,Toys,2967.23,5,598.28,Retail,0.3,39.48,Medium,ORD-00051,Cash,In Stock,Online
+2024-08-23,South,Electronics,3657.99,10,-123.9,Wholesale,0.32,99.57,Low,ORD-00052,Cash,Low Stock,Offline
+2023-11-12,West,Food,3809.7,33,449.65,Corporate,0.19,47.4,Medium,ORD-00053,Online Payment,Low Stock,Online
+2023-01-14,North,Furniture,1951.47,38,241.41,Corporate,0.26,36.69,Medium,ORD-00054,Credit Card,Out of Stock,Online
+2023-08-30,West,Furniture,1281.32,13,359.94,Wholesale,0.21,60.15,Critical,ORD-00055,Online Payment,Low Stock,Offline
+2023-12-12,West,Food,1104.72,31,757.16,Retail,0.03,13.43,Medium,ORD-00056,Credit Card,Out of Stock,Offline
+2024-07-18,East,Toys,1332.07,47,106.57,Retail,0.22,96.36,Critical,ORD-00057,Cash,In Stock,Offline
+2023-12-06,North,Furniture,1446.19,36,656.37,Wholesale,0.05,65.32,Low,ORD-00058,Cash,In Stock,Offline
+2023-04-02,West,Toys,1115.42,45,133.05,Wholesale,0.2,76.71,Critical,ORD-00059,Cash,Low Stock,Offline
+2024-01-02,West,Furniture,4403.28,24,30.81,Corporate,0.3,21.2,Critical,ORD-00060,Credit Card,In Stock,Online
+2024-03-30,South,Furniture,3809.3,15,937.94,Retail,0.29,43.9,High,ORD-00061,Cash,Low Stock,Online
+2024-03-03,West,Clothing,329.79,29,-223.44,Wholesale,0.33,45.16,Medium,ORD-00062,Credit Card,In Stock,Offline
+2024-05-23,West,Furniture,1416.5,8,-364.49,Retail,0.05,83.07,Low,ORD-00063,Online Payment,Out of Stock,Offline
+2023-02-04,South,Electronics,208.71,5,656.48,Wholesale,0.33,5.12,Critical,ORD-00064,Credit Card,Out of Stock,Offline
+2023-07-25,East,Food,2541.01,29,-397.63,Wholesale,0.16,33.58,Low,ORD-00065,Online Payment,Out of Stock,Offline
+2023-03-22,West,Food,2433.43,47,755.62,Retail,0.2,98.22,High,ORD-00066,Credit Card,Out of Stock,Offline
+2024-07-15,South,Toys,4173.72,4,155.79,Wholesale,0.43,50.11,Medium,ORD-00067,Online Payment,Low Stock,Online
+2024-01-23,North,Furniture,1608.11,12,873.27,Wholesale,0.0,41.34,Critical,ORD-00068,Cash,In Stock,Online
+2023-01-02,East,Electronics,4100.29,45,582.3,Corporate,0.29,16.38,Medium,ORD-00069,Online Payment,Low Stock,Online
+2024-01-25,North,Toys,4843.07,2,415.61,Wholesale,0.3,97.55,High,ORD-00070,Cash,Out of Stock,Online
+2024-07-19,North,Clothing,533.2,27,923.96,Wholesale,0.2,6.9,High,ORD-00071,Cash,Low Stock,Offline
+2023-04-16,South,Toys,3979.91,31,94.97,Wholesale,0.12,75.03,Low,ORD-00072,Online Payment,In Stock,Online
+2024-04-21,West,Toys,2990.78,36,931.13,Corporate,0.12,78.02,Critical,ORD-00073,Credit Card,Low Stock,Offline
+2024-12-03,South,Furniture,2452.23,36,-297.5,Retail,0.44,28.15,Low,ORD-00074,Credit Card,In Stock,Offline
+2024-02-06,South,Clothing,2160.63,26,225.63,Corporate,0.22,68.8,High,ORD-00075,EMI,Low Stock,Offline
+2024-12-30,South,Toys,3944.87,43,-95.13,Corporate,0.17,13.83,Medium,ORD-00076,Credit Card,In Stock,Online
+2024-07-09,South,Electronics,3232.87,27,309.76,Retail,0.22,29.42,Low,ORD-00077,EMI,In Stock,Offline
+2023-06-11,East,Electronics,4044.72,5,-256.98,Corporate,0.33,79.85,Low,ORD-00078,Credit Card,Out of Stock,Online
+2023-07-21,West,Food,4525.44,20,762.29,Retail,0.07,87.15,Medium,ORD-00079,Credit Card,In Stock,Online
+2023-09-27,North,Clothing,3124.59,11,769.61,Corporate,0.22,62.81,Low,ORD-00080,Cash,Out of Stock,Offline
+2023-09-28,North,Clothing,4904.27,10,932.85,Retail,0.29,53.15,Medium,ORD-00081,EMI,Out of Stock,Offline
+2024-03-31,West,Food,3079.63,40,-267.99,Wholesale,0.47,20.13,Critical,ORD-00082,Credit Card,Out of Stock,Offline
+2024-04-06,North,Toys,3219.56,38,435.0,Corporate,0.13,11.0,Medium,ORD-00083,EMI,Low Stock,Online
+2024-12-27,West,Clothing,2818.6,6,211.36,Corporate,0.18,16.18,Critical,ORD-00084,Cash,Low Stock,Offline
+2023-09-09,North,Electronics,545.91,8,16.58,Corporate,0.19,26.6,Medium,ORD-00085,Cash,Low Stock,Online
+2024-12-02,South,Electronics,3659.35,23,27.31,Corporate,0.3,37.46,High,ORD-00086,EMI,Low Stock,Offline
+2023-10-23,North,Furniture,2782.49,47,119.19,Wholesale,0.18,41.19,High,ORD-00087,Cash,In Stock,Offline
+2024-12-25,West,Clothing,2309.46,26,557.39,Corporate,0.27,37.9,Critical,ORD-00088,Online Payment,In Stock,Online
+2024-12-20,West,Toys,4561.31,46,397.43,Wholesale,0.39,27.71,Critical,ORD-00089,Online Payment,Low Stock,Online
+2023-12-04,West,Food,1560.0,43,189.52,Wholesale,0.35,53.42,High,ORD-00090,Cash,In Stock,Online
+2023-02-22,West,Food,2665.65,12,-386.1,Wholesale,0.22,83.4,Critical,ORD-00091,Online Payment,In Stock,Online
+2023-08-05,West,Toys,3518.45,26,-383.35,Wholesale,0.43,31.57,Medium,ORD-00092,Credit Card,Out of Stock,Online
+2023-07-07,East,Furniture,4002.71,13,-496.49,Retail,0.28,94.53,Medium,ORD-00093,EMI,Out of Stock,Online
+2024-01-15,East,Food,2350.8,40,951.55,Retail,0.27,87.97,High,ORD-00094,Credit Card,Out of Stock,Offline
+2024-05-07,North,Clothing,4226.25,18,-492.12,Corporate,0.02,20.37,Low,ORD-00095,EMI,Out of Stock,Offline
+2023-02-10,West,Furniture,3867.7,25,-345.36,Retail,0.49,79.7,Medium,ORD-00096,Cash,In Stock,Online
+2023-06-06,North,Clothing,424.56,33,-28.11,Retail,0.06,59.59,Critical,ORD-00097,Credit Card,Low Stock,Offline
+2023-01-15,West,Electronics,324.72,47,711.15,Corporate,0.12,58.82,Low,ORD-00098,Cash,In Stock,Online
+2023-03-06,West,Furniture,3141.95,40,943.15,Corporate,0.03,42.15,Low,ORD-00099,Cash,In Stock,Offline
+2024-06-04,East,Food,1802.33,43,685.02,Corporate,0.32,52.61,Medium,ORD-00100,EMI,In Stock,Offline
+2023-12-10,East,Furniture,1124.74,12,535.84,Retail,0.11,42.73,Medium,ORD-00101,EMI,Out of Stock,Online
+2023-05-09,South,Furniture,2940.28,44,281.95,Retail,0.09,56.27,Low,ORD-00102,EMI,Out of Stock,Online
+2024-10-09,East,Furniture,1773.66,36,-369.94,Corporate,0.04,64.66,Low,ORD-00103,Credit Card,Out of Stock,Online
+2024-04-16,South,Furniture,2732.59,48,937.26,Wholesale,0.05,69.06,High,ORD-00104,Online Payment,Low Stock,Offline
+2023-03-04,South,Clothing,2354.58,4,637.59,Corporate,0.29,55.59,Critical,ORD-00105,EMI,In Stock,Online
+2023-05-19,South,Electronics,2965.35,5,458.42,Wholesale,0.34,73.54,High,ORD-00106,EMI,Low Stock,Offline
+2024-05-13,South,Toys,2061.47,37,638.55,Wholesale,0.2,18.42,Medium,ORD-00107,Credit Card,Out of Stock,Online
+2024-08-15,South,Furniture,3518.57,8,586.15,Corporate,0.24,25.14,High,ORD-00108,EMI,Low Stock,Offline
+2024-01-27,North,Food,982.33,42,455.85,Corporate,0.34,82.78,High,ORD-00109,Credit Card,In Stock,Offline
+2024-11-05,East,Furniture,3512.86,49,970.87,Corporate,0.01,35.64,High,ORD-00110,Cash,In Stock,Online
+2024-02-23,South,Food,2117.14,28,855.05,Retail,0.16,7.17,High,ORD-00111,EMI,Out of Stock,Offline
+2023-10-16,West,Clothing,4384.16,31,470.0,Wholesale,0.49,19.61,Critical,ORD-00112,EMI,Out of Stock,Offline
+2024-01-14,East,Food,2624.66,9,539.76,Retail,0.29,26.24,Critical,ORD-00113,Cash,Low Stock,Online
+2024-05-04,East,Toys,4868.24,29,-422.61,Retail,0.13,95.95,Low,ORD-00114,Cash,Out of Stock,Offline
+2023-08-19,South,Electronics,3049.48,14,504.88,Corporate,0.26,59.44,Medium,ORD-00115,Cash,Out of Stock,Online
+2023-02-10,North,Food,1196.86,40,-433.75,Retail,0.17,93.61,High,ORD-00116,EMI,In Stock,Online
+2023-01-28,South,Food,4126.77,41,382.4,Corporate,0.27,59.64,Low,ORD-00117,Online Payment,Out of Stock,Online
+2023-05-15,North,Electronics,1790.9,22,999.03,Wholesale,0.06,50.54,Low,ORD-00118,Online Payment,Out of Stock,Online
+2023-07-20,West,Toys,1803.33,11,333.71,Corporate,0.07,34.8,Low,ORD-00119,Online Payment,In Stock,Offline
+2023-02-02,East,Furniture,255.84,23,209.82,Retail,0.07,62.61,Critical,ORD-00120,EMI,In Stock,Offline
+2023-02-17,West,Food,2788.71,1,-30.72,Retail,0.47,18.22,High,ORD-00121,Cash,Low Stock,Offline
+2024-05-17,North,Electronics,2718.68,46,-319.22,Corporate,0.37,90.33,High,ORD-00122,EMI,Out of Stock,Online
+2024-02-11,North,Clothing,1844.36,37,596.54,Corporate,0.08,83.79,Medium,ORD-00123,Cash,In Stock,Offline
+2024-07-27,West,Electronics,4481.66,21,-211.1,Retail,0.09,35.17,High,ORD-00124,EMI,Low Stock,Offline
+2024-12-28,North,Clothing,730.87,26,-327.08,Wholesale,0.37,95.52,High,ORD-00125,EMI,Low Stock,Online
+2023-04-09,West,Toys,1717.49,46,132.64,Wholesale,0.08,83.39,Low,ORD-00126,Cash,Out of Stock,Online
+2024-11-14,East,Furniture,1675.76,36,693.01,Corporate,0.12,68.3,Medium,ORD-00127,Online Payment,Out of Stock,Offline
+2024-12-26,West,Electronics,552.22,23,617.6,Wholesale,0.48,16.57,High,ORD-00128,Cash,Low Stock,Online
+2024-06-30,East,Food,2457.61,1,-417.68,Retail,0.13,50.43,Critical,ORD-00129,Credit Card,In Stock,Online
+2024-09-04,West,Toys,3470.15,40,182.72,Corporate,0.33,53.08,High,ORD-00130,Credit Card,Low Stock,Online
+2024-04-06,North,Electronics,2607.12,15,283.65,Retail,0.49,27.09,Low,ORD-00131,Cash,Out of Stock,Online
+2024-10-04,West,Food,869.19,21,466.82,Retail,0.19,12.6,Critical,ORD-00132,EMI,In Stock,Offline
+2023-01-05,North,Electronics,1948.7,47,475.25,Wholesale,0.01,78.79,Low,ORD-00133,Credit Card,In Stock,Online
+2023-08-06,West,Clothing,112.72,9,47.05,Corporate,0.12,16.59,High,ORD-00134,Credit Card,Low Stock,Online
+2024-05-17,West,Electronics,4354.68,9,341.02,Corporate,0.42,61.46,Critical,ORD-00135,EMI,Out of Stock,Online
+2024-02-02,South,Electronics,514.13,10,221.59,Wholesale,0.43,93.96,Medium,ORD-00136,EMI,Low Stock,Online
+2024-01-28,North,Electronics,3026.66,26,827.5,Retail,0.38,88.23,Medium,ORD-00137,Online Payment,Low Stock,Online
+2023-07-26,South,Toys,4932.66,41,295.4,Retail,0.06,31.39,Critical,ORD-00138,EMI,Low Stock,Online
+2023-01-15,North,Electronics,2729.29,35,161.55,Retail,0.4,85.89,Critical,ORD-00139,Cash,In Stock,Online
+2024-07-07,South,Food,4627.8,25,106.73,Retail,0.46,5.03,Low,ORD-00140,Cash,In Stock,Online
+2024-04-05,East,Clothing,1256.97,26,358.64,Corporate,0.3,6.68,Critical,ORD-00141,Online Payment,Out of Stock,Offline
+2024-11-21,West,Clothing,3823.78,11,705.97,Corporate,0.47,62.24,Low,ORD-00142,Credit Card,Out of Stock,Online
+2024-07-28,North,Electronics,2703.2,38,307.6,Wholesale,0.41,39.66,High,ORD-00143,Credit Card,Low Stock,Offline
+2023-08-29,North,Toys,3630.53,2,492.48,Wholesale,0.33,41.71,Low,ORD-00144,EMI,Low Stock,Online
+2024-07-17,West,Toys,405.47,7,606.78,Corporate,0.29,58.62,Critical,ORD-00145,Cash,Low Stock,Online
+2023-04-06,North,Food,823.92,18,280.25,Corporate,0.17,23.22,Critical,ORD-00146,Credit Card,Out of Stock,Online
+2024-04-29,North,Electronics,752.27,27,140.23,Retail,0.08,25.12,High,ORD-00147,Online Payment,In Stock,Online
+2024-02-11,South,Clothing,3467.11,34,815.0,Retail,0.3,51.04,Critical,ORD-00148,Online Payment,In Stock,Offline
+2023-08-19,North,Toys,4237.76,27,126.26,Wholesale,0.16,76.65,Critical,ORD-00149,Cash,Low Stock,Online
+2024-10-16,East,Electronics,3773.12,17,192.91,Corporate,0.43,63.85,Medium,ORD-00150,Online Payment,Low Stock,Online
+2023-06-20,East,Toys,249.31,43,985.51,Wholesale,0.5,33.25,Medium,ORD-00151,Online Payment,Low Stock,Offline
+2024-06-24,West,Toys,4349.35,44,-499.64,Corporate,0.38,45.88,High,ORD-00152,Cash,Low Stock,Offline
+2023-02-05,North,Clothing,1835.32,24,-221.79,Retail,0.05,21.21,Low,ORD-00153,EMI,Out of Stock,Online
+2024-06-08,West,Furniture,2046.1,25,75.95,Wholesale,0.14,12.09,Medium,ORD-00154,EMI,In Stock,Offline
+2023-06-09,East,Food,613.86,7,898.88,Wholesale,0.05,79.36,Low,ORD-00155,Online Payment,Low Stock,Offline
+2024-11-29,North,Food,3713.29,6,-394.96,Corporate,0.33,30.21,Critical,ORD-00156,EMI,Out of Stock,Offline
+2023-08-31,North,Clothing,993.19,24,-485.77,Retail,0.38,21.89,Medium,ORD-00157,EMI,Low Stock,Online
+2023-03-27,West,Toys,2863.43,33,-420.97,Wholesale,0.46,70.7,High,ORD-00158,Online Payment,Low Stock,Online
+2024-07-31,East,Electronics,4219.48,49,-367.18,Retail,0.22,63.71,High,ORD-00159,EMI,In Stock,Online
+2024-11-12,North,Toys,537.1,29,-443.6,Wholesale,0.45,65.15,High,ORD-00160,Online Payment,Low Stock,Offline
+2024-07-10,West,Clothing,2723.14,43,219.67,Retail,0.44,26.74,Medium,ORD-00161,Credit Card,In Stock,Online
+2024-07-27,East,Food,1242.76,22,371.14,Corporate,0.16,27.1,Low,ORD-00162,Cash,In Stock,Offline
+2024-10-07,West,Toys,1780.34,26,-92.47,Wholesale,0.43,25.98,Critical,ORD-00163,Cash,In Stock,Online
+2023-01-28,South,Food,2422.45,28,97.43,Wholesale,0.19,21.51,Low,ORD-00164,EMI,Out of Stock,Online
+2024-09-11,North,Electronics,1840.01,21,-362.45,Retail,0.15,67.29,Low,ORD-00165,EMI,Out of Stock,Offline
+2024-07-09,South,Food,3279.23,49,4.56,Retail,0.32,85.56,Critical,ORD-00166,EMI,In Stock,Online
+2023-12-06,East,Food,2449.95,7,283.78,Wholesale,0.16,73.81,Critical,ORD-00167,Cash,Low Stock,Offline
+2023-11-27,South,Furniture,2962.58,17,598.41,Corporate,0.32,80.25,Medium,ORD-00168,Credit Card,In Stock,Offline
+2024-10-01,South,Furniture,3710.43,20,-494.98,Retail,0.3,43.46,Medium,ORD-00169,Credit Card,Low Stock,Online
+2024-05-20,East,Furniture,2832.94,41,200.97,Retail,0.28,67.14,Medium,ORD-00170,Cash,In Stock,Offline
+2023-12-14,West,Food,2974.02,49,-54.5,Retail,0.19,38.65,Medium,ORD-00171,Credit Card,Low Stock,Online
+2024-04-17,South,Clothing,2865.85,20,779.23,Wholesale,0.27,54.92,Medium,ORD-00172,Cash,Out of Stock,Online
+2023-08-19,West,Food,1955.99,22,573.33,Wholesale,0.3,50.76,Critical,ORD-00173,Credit Card,Low Stock,Offline
+2023-07-09,South,Clothing,1753.49,28,383.66,Wholesale,0.27,21.8,Low,ORD-00174,Online Payment,In Stock,Online
+2023-08-13,West,Clothing,4508.27,40,-84.1,Wholesale,0.22,41.77,Medium,ORD-00175,Online Payment,Out of Stock,Offline
+2024-01-20,East,Furniture,3077.02,49,865.51,Corporate,0.01,96.56,Medium,ORD-00176,Cash,Low Stock,Online
+2024-01-12,South,Toys,1297.33,7,-432.35,Corporate,0.29,28.62,Low,ORD-00177,Credit Card,Low Stock,Online
+2023-10-10,East,Electronics,2541.41,1,-335.8,Wholesale,0.08,17.71,Medium,ORD-00178,EMI,Low Stock,Online
+2024-09-24,South,Furniture,1718.71,32,87.45,Corporate,0.32,44.77,Low,ORD-00179,Credit Card,Low Stock,Online
+2024-09-19,East,Furniture,4675.09,13,-313.34,Retail,0.38,80.08,Low,ORD-00180,Online Payment,Low Stock,Online
+2023-09-16,East,Toys,136.92,30,934.62,Retail,0.25,60.3,Critical,ORD-00181,Online Payment,Out of Stock,Offline
+2023-12-25,South,Electronics,1204.13,23,696.98,Retail,0.27,69.69,High,ORD-00182,Credit Card,Out of Stock,Offline
+2024-12-10,South,Food,1890.25,19,-111.53,Wholesale,0.48,23.02,Critical,ORD-00183,Credit Card,Out of Stock,Offline
+2024-03-31,South,Food,2490.27,32,382.83,Retail,0.42,63.8,High,ORD-00184,EMI,Out of Stock,Offline
+2024-02-15,North,Furniture,4269.01,30,973.5,Corporate,0.46,35.73,High,ORD-00185,EMI,In Stock,Offline
+2024-10-10,West,Electronics,530.65,29,826.3,Wholesale,0.41,84.26,High,ORD-00186,Credit Card,Out of Stock,Offline
+2023-11-14,North,Furniture,4048.74,49,401.2,Corporate,0.05,64.78,Medium,ORD-00187,Credit Card,Low Stock,Online
+2024-11-07,North,Clothing,372.7,45,855.59,Retail,0.07,23.89,Critical,ORD-00188,Credit Card,Low Stock,Online
+2023-08-13,East,Furniture,4227.34,29,983.78,Retail,0.26,11.14,High,ORD-00189,Credit Card,Out of Stock,Offline
+2023-08-22,South,Furniture,353.01,30,615.03,Retail,0.12,9.05,Low,ORD-00190,Cash,Low Stock,Offline
+2024-11-14,West,Food,189.39,16,-402.52,Wholesale,0.24,40.28,Medium,ORD-00191,Credit Card,Out of Stock,Online
+2024-10-25,East,Food,3515.11,40,102.37,Corporate,0.2,30.26,Critical,ORD-00192,EMI,Low Stock,Online
+2024-01-09,North,Food,4986.55,19,756.74,Wholesale,0.27,66.38,High,ORD-00193,Online Payment,In Stock,Online
+2024-11-02,South,Clothing,4493.39,18,-154.15,Wholesale,0.37,52.44,Low,ORD-00194,Cash,In Stock,Offline
+2024-08-30,East,Food,2922.39,1,745.96,Retail,0.36,30.27,Critical,ORD-00195,Credit Card,Out of Stock,Offline
+2024-04-16,South,Electronics,4595.24,14,-319.49,Wholesale,0.26,19.18,Critical,ORD-00196,Online Payment,Out of Stock,Offline
+2023-08-21,East,Toys,125.97,47,-429.58,Wholesale,0.41,17.08,Medium,ORD-00197,Cash,Out of Stock,Online
+2024-11-22,South,Electronics,4877.83,2,76.14,Retail,0.22,87.14,Critical,ORD-00198,Online Payment,Low Stock,Online
+2023-04-23,North,Electronics,2504.67,28,-444.9,Wholesale,0.45,28.13,Medium,ORD-00199,Credit Card,Out of Stock,Offline
+2024-05-11,West,Food,3642.19,49,935.91,Retail,0.04,66.91,High,ORD-00200,Credit Card,In Stock,Offline
+2024-03-17,North,Toys,4122.22,30,739.31,Retail,0.48,82.02,Medium,ORD-00201,EMI,Low Stock,Online
+2024-07-17,West,Toys,3620.44,38,701.15,Retail,0.33,63.34,Low,ORD-00202,Credit Card,Out of Stock,Online
+2023-09-25,South,Toys,2721.68,4,444.67,Retail,0.19,86.66,Medium,ORD-00203,Credit Card,Low Stock,Online
+2024-05-24,East,Clothing,2435.44,1,-175.51,Wholesale,0.1,42.28,Low,ORD-00204,Cash,Low Stock,Online
+2024-01-21,North,Food,4209.05,8,277.39,Retail,0.24,95.84,Medium,ORD-00205,EMI,Out of Stock,Offline
+2024-01-22,West,Toys,1104.88,29,395.91,Retail,0.1,17.65,Critical,ORD-00206,Cash,Low Stock,Online
+2023-04-23,North,Clothing,4843.17,39,287.55,Wholesale,0.08,14.7,High,ORD-00207,Online Payment,In Stock,Online
+2024-09-04,West,Furniture,3583.67,3,-109.65,Wholesale,0.31,67.58,Low,ORD-00208,Credit Card,In Stock,Online
+2024-09-16,North,Furniture,1077.58,32,272.87,Corporate,0.26,94.57,Medium,ORD-00209,Online Payment,Low Stock,Offline
+2023-03-22,West,Clothing,3707.61,10,236.78,Wholesale,0.34,81.84,Medium,ORD-00210,Cash,Out of Stock,Offline
+2024-11-29,West,Clothing,2696.22,10,994.5,Wholesale,0.46,12.26,Medium,ORD-00211,Credit Card,Low Stock,Online
+2023-04-23,South,Food,3565.43,19,846.15,Corporate,0.27,31.54,Critical,ORD-00212,Credit Card,In Stock,Online
+2023-01-02,West,Food,3862.12,46,195.07,Wholesale,0.29,93.38,Critical,ORD-00213,Cash,Low Stock,Online
+2024-10-03,South,Furniture,527.72,34,434.41,Wholesale,0.04,29.04,Low,ORD-00214,Cash,Low Stock,Offline
+2023-08-08,West,Toys,2579.91,33,621.81,Wholesale,0.36,79.21,Low,ORD-00215,Cash,In Stock,Offline
+2024-07-19,East,Furniture,4666.87,23,-447.7,Wholesale,0.2,83.39,Critical,ORD-00216,Cash,Low Stock,Offline
+2023-08-13,East,Toys,1671.15,28,842.38,Corporate,0.49,52.07,Low,ORD-00217,Cash,Low Stock,Online
+2024-01-20,East,Toys,3010.03,32,790.19,Wholesale,0.41,41.7,High,ORD-00218,Credit Card,Out of Stock,Offline
+2024-02-07,West,Food,1909.23,7,186.15,Wholesale,0.26,47.76,High,ORD-00219,Cash,Out of Stock,Online
+2024-09-29,South,Electronics,2325.91,29,86.75,Corporate,0.06,26.56,Critical,ORD-00220,Credit Card,In Stock,Online
+2023-05-10,South,Electronics,2788.16,8,-90.56,Retail,0.43,89.49,Low,ORD-00221,Credit Card,In Stock,Online
+2023-02-22,West,Clothing,2789.72,1,215.02,Corporate,0.4,47.81,Medium,ORD-00222,Cash,In Stock,Offline
+2024-11-14,East,Food,1088.48,3,-433.44,Retail,0.09,88.83,High,ORD-00223,Cash,Out of Stock,Online
+2024-12-30,East,Toys,3454.4,24,778.29,Corporate,0.15,15.04,Critical,ORD-00224,EMI,In Stock,Offline
+2024-11-02,South,Electronics,530.55,23,-446.87,Corporate,0.4,98.89,Low,ORD-00225,Credit Card,In Stock,Offline
+2024-12-10,East,Toys,780.24,8,-6.42,Wholesale,0.09,47.11,Critical,ORD-00226,Cash,In Stock,Online
+2024-02-20,North,Electronics,113.28,47,897.38,Retail,0.46,9.54,Medium,ORD-00227,Cash,Out of Stock,Online
+2023-09-04,South,Electronics,671.81,37,602.82,Wholesale,0.21,8.61,High,ORD-00228,Cash,Low Stock,Offline
+2024-03-14,East,Electronics,2418.51,3,-77.91,Retail,0.04,75.89,Critical,ORD-00229,EMI,In Stock,Online
+2023-07-22,South,Food,3069.9,33,-121.03,Corporate,0.41,67.61,Critical,ORD-00230,EMI,Low Stock,Offline
+2023-07-03,North,Furniture,3992.02,28,-492.38,Corporate,0.19,81.2,Critical,ORD-00231,Online Payment,In Stock,Online
+2023-05-03,South,Toys,622.83,47,543.57,Retail,0.26,15.01,Medium,ORD-00232,Credit Card,Low Stock,Offline
+2024-02-05,South,Food,4268.56,8,-426.82,Wholesale,0.06,8.38,Critical,ORD-00233,Online Payment,Out of Stock,Offline
+2023-10-21,South,Food,3755.28,34,298.9,Wholesale,0.0,53.32,Medium,ORD-00234,Cash,Out of Stock,Offline
+2023-10-07,South,Food,2101.74,35,943.18,Wholesale,0.32,41.82,Medium,ORD-00235,EMI,In Stock,Offline
+2024-09-01,North,Food,4671.4,32,-335.8,Wholesale,0.26,48.88,Medium,ORD-00236,EMI,Low Stock,Online
+2023-07-17,West,Food,4955.55,24,841.72,Corporate,0.3,99.2,High,ORD-00237,Online Payment,Out of Stock,Online
+2024-05-25,South,Clothing,1104.51,14,987.21,Corporate,0.4,97.22,High,ORD-00238,EMI,In Stock,Offline
+2023-05-24,South,Toys,1958.22,32,-407.72,Corporate,0.32,94.52,Critical,ORD-00239,Cash,In Stock,Offline
+2024-08-31,East,Food,4639.6,46,824.36,Corporate,0.09,79.47,Critical,ORD-00240,EMI,Out of Stock,Online
+2023-07-20,South,Toys,3635.82,43,274.12,Corporate,0.18,38.71,High,ORD-00241,Online Payment,Out of Stock,Online
+2023-05-04,East,Clothing,335.66,16,859.77,Wholesale,0.45,44.15,Low,ORD-00242,Cash,In Stock,Online
+2023-07-06,West,Clothing,3929.42,4,356.98,Wholesale,0.38,57.21,High,ORD-00243,Online Payment,Low Stock,Online
+2023-11-22,North,Toys,4156.91,37,493.17,Wholesale,0.28,83.9,Medium,ORD-00244,EMI,Low Stock,Online
+2024-04-08,North,Electronics,3777.46,21,315.67,Wholesale,0.13,11.53,High,ORD-00245,Online Payment,Low Stock,Online
+2023-12-15,West,Furniture,4017.73,14,796.74,Corporate,0.15,45.31,Medium,ORD-00246,Online Payment,In Stock,Offline
+2024-10-21,North,Electronics,4143.15,31,600.86,Corporate,0.37,12.85,Critical,ORD-00247,Credit Card,Out of Stock,Online
+2024-02-07,West,Electronics,1013.38,48,281.89,Corporate,0.43,53.89,Low,ORD-00248,EMI,In Stock,Online
+2023-12-12,West,Electronics,1254.89,18,802.24,Retail,0.34,90.4,Critical,ORD-00249,EMI,Out of Stock,Offline
+2024-05-25,West,Food,3205.42,7,-132.07,Wholesale,0.4,79.34,Medium,ORD-00250,Online Payment,Low Stock,Online
